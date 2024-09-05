@@ -4,7 +4,7 @@ Basic 802.11 Wireless Frame Viewer.
 
 
 ## Build
-* `git clone https://github.com/PlatinumVoyager/WirelessTransparency.git && cd WirelessTransparency ; make build`
+* `git clone https://github.com/PlatinumVoyager/WirelessTransparency.git && cd WirelessTransparency ; mkdir bin && make build`
 
 ## Execution
 * `./bin/WIRELESSTRANSPARENCY <network interface card>`
