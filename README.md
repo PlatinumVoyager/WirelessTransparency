@@ -1,7 +1,7 @@
 <img src="https://github.com/user-attachments/assets/b0a6d560-96e1-4b0d-90a2-472fb3c4f316">
 
 ## About
-WirelessTransparency was first developed with the idea of understanding the IEEE 802.11 protocol to a further lower-level extent. As such this repository of files is close to a year old and development has been halted since mid January, with development initially beginning in late December. This project has been released as open source with the intentions of providing more context and information on the basis of how such tool are usually structured/created.
+WirelessTransparency was first developed with the idea of understanding the IEEE 802.11 protocol to a further lower-level extent. As such this repository of files is close to a year old and development has been halted since mid January, with development initially beginning in late December. This project has been released as open source with the intentions of providing more context and information on the basis of how such tools are usually structured/created.
 
 ## Build
 * `git clone https://github.com/PlatinumVoyager/WirelessTransparency.git && cd WirelessTransparency ; mkdir bin && make build`
