@@ -28,6 +28,6 @@ _NOTE:_ The NIC was brought down (2 times in total) in order to change the Media
 * Press `<ENTER>` to view your wireless surroundings.
 
   ## Expected View
-  _Intentially redacted.....except for that one Calix device_
+  _Intentionally redacted.....except for that one Calix device_
 
   <img src="https://github.com/user-attachments/assets/68e45b77-662b-44c5-975d-f37bb80ddade">
